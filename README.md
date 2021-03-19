@@ -1,16 +1,16 @@
-### Hi there 👋
+## Saiba Muito em Pouco Tempo
 
-<!--
-**bCarlosCoffee/bCarlosCoffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - Nome: Carlos Alexandre
+  - Idade: 18
+  - Foco: Mobile
+  - Tecnologias: Dart, Flutter, Getx, Firebase, Python, Android e etc...
 
-Here are some ideas to get you started:
+### Redes Socias:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Instagram: [carlosbatista.dev](https://www.instagram.com/carlosbatista.dev)
+  - Facebook: [CarlosCoffeepy](https://www.facebook.com/CarlosCoffeepy)
+  - Linkedin: [carlos-batista-057378208](https://www.linkedin.com/in/carlos-batista-057378208)
+
+### Detalhes
+  
+  Meu objetivo é melhorar cada vez mais, me destacar na área em que eu atuo e não ficar na zona de conforto!
